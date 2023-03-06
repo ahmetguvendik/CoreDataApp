@@ -1,0 +1,5 @@
+# CoreDataApp![Simulator Screen Shot - iPhone 14 Pro - 2023-03-06 at 18 05 05](https://user-images.githubusercontent.com/62288196/223149115-09396e4c-699d-417e-acb3-b7472b0b6a36.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-06 at 18 05 08](https://user-images.githubusercontent.com/62288196/223149135-b6cda3ac-ae6f-4258-8bb1-75a7880dd69e.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-06 at 18 05 12](https://user-images.githubusercontent.com/62288196/223149142-de19cbb5-de3b-4367-a002-1de15b32ead6.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-06 at 18 05 15](https://user-images.githubusercontent.com/62288196/223149155-2dc22adb-a637-4552-a6b2-d221274b1de4.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-06 at 18 05 27](https://user-images.githubusercontent.com/62288196/223149169-8814dbe3-b165-4c14-8fb5-bb24536cd67a.png)
